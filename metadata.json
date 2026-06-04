@@ -1,0 +1,59 @@
+{
+  "siteId": "decluttering-guide",
+  "generatedAt": "2026-06-04T11:35:05.160442",
+  "categories": [
+    "beginner-decluttering-guide",
+    "advanced-decluttering-guide",
+    "tips-decluttering-guide",
+    "history-decluttering-guide",
+    "trending-decluttering-guide",
+    "tutorials-decluttering-guide"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-decluttering-guide",
+      "category_name": "Beginner Decluttering Guide"
+    },
+    {
+      "category_slug": "advanced-decluttering-guide",
+      "category_name": "Advanced Decluttering Guide"
+    },
+    {
+      "category_slug": "tips-decluttering-guide",
+      "category_name": "Decluttering Guide Tips"
+    },
+    {
+      "category_slug": "history-decluttering-guide",
+      "category_name": "Decluttering Guide History"
+    },
+    {
+      "category_slug": "trending-decluttering-guide",
+      "category_name": "Trending Decluttering Guide"
+    },
+    {
+      "category_slug": "tutorials-decluttering-guide",
+      "category_name": "Decluttering Guide Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "decluttering-guide",
+    "color_scheme": {
+      "name": "Forest Green",
+      "primary": "#166534",
+      "secondary": "#22c55e",
+      "accent": "#86efac",
+      "background": "#f0fdf4",
+      "text": "#14532d",
+      "light": "#dcfce7"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "sidebar",
+    "site_title": "Decluttering Guide Central",
+    "articles_per_row": 2
+  }
+}

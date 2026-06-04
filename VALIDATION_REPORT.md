@@ -1,0 +1,88 @@
+# Validation Report - decluttering-guide
+
+Generated: 2026-06-04T11:35:05.160232
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Decluttering Guide
+- ✓ Article word count OK: Beginner Decluttering Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Decluttering Guide
+- ✓ Article word count OK: Beginner Decluttering Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Decluttering Guide
+- ✓ Article word count OK: Beginner Decluttering Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Decluttering Guide
+- ✓ Article word count OK: Common Mistakes in Beginner Decluttering Guide
+- ✓ Article word count OK: Beginner Decluttering Guide for Beginners
+- ✓ Article word count OK: Advanced Beginner Decluttering Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Decluttering Guide
+- ✓ Article word count OK: Advanced Decluttering Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Decluttering Guide
+- ✓ Article word count OK: Advanced Decluttering Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Decluttering Guide
+- ✓ Article word count OK: Advanced Decluttering Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Decluttering Guide
+- ✓ Article word count OK: Common Mistakes in Advanced Decluttering Guide
+- ✓ Article word count OK: Advanced Decluttering Guide for Beginners
+- ✓ Article word count OK: Advanced Advanced Decluttering Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Decluttering Guide Tips
+- ✓ Article word count OK: Decluttering Guide Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Decluttering Guide Tips
+- ✓ Article word count OK: Decluttering Guide Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Decluttering Guide Tips
+- ✓ Article word count OK: Decluttering Guide Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Decluttering Guide Tips
+- ✓ Article word count OK: Common Mistakes in Decluttering Guide Tips
+- ✓ Article word count OK: Decluttering Guide Tips for Beginners
+- ✓ Article word count OK: Advanced Decluttering Guide Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Decluttering Guide History
+- ✓ Article word count OK: Decluttering Guide History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Decluttering Guide History
+- ✓ Article word count OK: Decluttering Guide History Tips and Best Practices
+- ✓ Article word count OK: The History of Decluttering Guide History
+- ✓ Article word count OK: Decluttering Guide History in 2026: Current Trends
+- ✓ Article word count OK: Future of Decluttering Guide History
+- ✓ Article word count OK: Common Mistakes in Decluttering Guide History
+- ✓ Article word count OK: Decluttering Guide History for Beginners
+- ✓ Article word count OK: Advanced Decluttering Guide History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Decluttering Guide
+- ✓ Article word count OK: Trending Decluttering Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Decluttering Guide
+- ✓ Article word count OK: Trending Decluttering Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Decluttering Guide
+- ✓ Article word count OK: Trending Decluttering Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Decluttering Guide
+- ✓ Article word count OK: Common Mistakes in Trending Decluttering Guide
+- ✓ Article word count OK: Trending Decluttering Guide for Beginners
+- ✓ Article word count OK: Advanced Trending Decluttering Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Decluttering Guide Tutorials
+- ✓ Article word count OK: Decluttering Guide Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Decluttering Guide Tutorials
+- ✓ Article word count OK: Decluttering Guide Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Decluttering Guide Tutorials
+- ✓ Article word count OK: Decluttering Guide Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Decluttering Guide Tutorials
+- ✓ Article word count OK: Common Mistakes in Decluttering Guide Tutorials
+- ✓ Article word count OK: Decluttering Guide Tutorials for Beginners
+- ✓ Article word count OK: Advanced Decluttering Guide Tutorials Techniques
+- ✓ Ad configuration validated
